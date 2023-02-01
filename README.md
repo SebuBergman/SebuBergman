@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SebuBergman
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning java, python and some front-end coding (React.js) and some node.js
+- 🌱 I’m currently learning typescript and front-end coding (React.js)
 - I already know React, React Native, JavaScript, HTML5 & CSS, Scrum & some Kanban (Project Management), and Node, Python and SQL and learning new a one (Typescript)
 
 <!---
