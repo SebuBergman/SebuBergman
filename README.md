@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebuBergman
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning java, python and some front-end coding (React.js) and some node.js
-- I already know HTML, CSS and javascript very well. And i have decent skills in java.
+- I already know React, React Native, JavaScript, HTML5 & CSS, Scrum & some Kanban (Project Management), and Node, Python and SQL and learning new a one (Typescript)
 
 <!---
 SebuBergman/SebuBergman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
