@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SebuBergman
-- 👀 I’m interested in programming & UX/UI design
+- 👀 I’m interested in front-end programming & UX/UI design
 - 🌱 I’m currently learning Robot Framework
 - I already know React, React Native, JavaScript, Typescript, HTML5 & CSS, Scrum & some Kanban (Project Management), and Node.js & Express, Python and SQL and learning new a one (Robot Framework)
 
