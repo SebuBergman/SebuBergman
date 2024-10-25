@@ -4,6 +4,7 @@
 - I already know React, React Native, JavaScript, Typescript, HTML5 & CSS, Scrum & some Kanban (Project Management), and Node.js & Express, Python and SQL.
 
 - Check out my portfolio (https://sebastianbergman.fi)
+- Currently working on personal projects and Zacker Academy
 
 <!---
 SebuBergman/SebuBergman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
