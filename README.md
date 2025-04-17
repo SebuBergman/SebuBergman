@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SebuBergman
-- 👀 I’m interested in front-end programming & UX/UI design
-- 🌱 I’m currently learning more about Typescript & styled-components
-- I already know React, React Native, JavaScript, Typescript, HTML5 & CSS, Scrum & some Kanban (Project Management), and Node.js & Express, Python and SQL.
+- 👀 I’m interested in Full-stack programming & UX/UI design
+- 🌱 I’m currently learning more about RAG agents and Gen AI
+- I already know React, React Native, JavaScript, Typescript, HTML5 & CSS, Scrum & some Kanban (Project Management), and Node.js & Express, Python, SQL and MongoDB, OPEN AI.
 
 - Check out my portfolio (https://sebastianbergman.fi)
 - Currently working on personal projects
